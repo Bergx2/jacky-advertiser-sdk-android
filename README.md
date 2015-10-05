@@ -1,1 +1,0 @@
-# jacky-advertiser-sdk-android
